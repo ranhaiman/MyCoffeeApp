@@ -3,10 +3,8 @@ using MvvmHelpers.Commands;
 using MyCoffeeApp.Services;
 using MyCoffeeApp.Shared.Models;
 using MyCoffeeApp.Views;
-using System.Linq;
 using System.Threading.Tasks;
 using Xamarin.Forms;
-using Command = MvvmHelpers.Commands.Command;
 
 namespace MyCoffeeApp.ViewModels
 {

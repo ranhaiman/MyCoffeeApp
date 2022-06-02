@@ -1,11 +1,9 @@
 ﻿using MonkeyCache.FileStore;
 using MyCoffeeApp.Shared.Models;
 using Newtonsoft.Json;
-using SQLite;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
-using System.IO;
 using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
